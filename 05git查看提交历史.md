@@ -37,7 +37,10 @@ git log参数
 #### 常用git log命令
 
 ~~~
-
+git log -n
+git log 
+git log --stat
+git log --pretty=oneline
 ~~~
 
 #### 限制输出长度
